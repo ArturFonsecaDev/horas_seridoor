@@ -16,9 +16,3 @@ Este projeto fornece uma API Django configurada com autenticação baseada em JW
    ```bash
    git clone <url_do_repositorio>
    cd <nome_do_repositorio>
-python -m venv venv
-source venv/bin/activate  # no Windows, use `venv\Scripts\activate`
-pip install -r requirements.txt
-python manage.py migrate
-python manage.py createsuperuser
-python manage.py runserver
