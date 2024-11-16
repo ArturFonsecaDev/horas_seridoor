@@ -1,7 +1,3 @@
-Aqui está o README completo com a formatação em Markdown:
-
-markdown
-Copiar código
 # Django API com JWT Autenticação
 
 Este projeto fornece uma API Django configurada com autenticação baseada em JWT (JSON Web Token) usando `djangorestframework_simplejwt`.
